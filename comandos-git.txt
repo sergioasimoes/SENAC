@@ -65,3 +65,7 @@ git clone <url-do-repositório> <nome-da-pasta>
 
 volta para o arquivo original, cancela todas as modificações feitas
 git restore < nome-do-arquivo>
+
+
+
+uhuhuhuhu
